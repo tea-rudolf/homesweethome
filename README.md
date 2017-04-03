@@ -1,2 +1,3 @@
 # homesweethome
-3D model of our condo
+Sketchup 3D models of potentials homes
+
